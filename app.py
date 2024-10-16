@@ -1,7 +1,8 @@
 from flask import Flask,request,render_template,jsonify
 from src.pipeline.prediction_pipeline import CustomData,PredictPipeline
 
-# great
+
+
 application=Flask(__name__)
 
 app=application
