@@ -1,0 +1,6 @@
+[ 2024-10-16 21:53:08,495 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-16 21:53:08,504 ] 97 werkzeug - INFO -  * Debugger PIN: 640-867-735
+[ 2024-10-16 21:53:36,988 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/Oct/2024 21:53:36] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-16 21:53:40,963 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/Oct/2024 21:53:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-10-16 21:53:50,082 ] 67 root - INFO - Dataframe Gathered
+[ 2024-10-16 21:53:51,360 ] 97 werkzeug - INFO - 127.0.0.1 - - [16/Oct/2024 21:53:51] "POST /predict HTTP/1.1" 200 -

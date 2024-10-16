@@ -1,0 +1,3 @@
+[ 2024-10-16 23:13:13,131 ] 32 root - INFO - Splitting Dependent and Independent variables from train and test data
+[ 2024-10-16 23:13:13,142 ] 45 root - INFO - Exception occured during model training
+[ 2024-10-16 23:13:13,142 ] 72 root - INFO - Exception occured at Model Training
